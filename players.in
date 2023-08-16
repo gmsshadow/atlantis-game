@@ -1,6 +1,6 @@
 AtlantisPlayerStatus
 Version: 328192
-TurnNumber: 10
+TurnNumber: 9
 GameStatus: Running
 
 Faction: 1
@@ -23,7 +23,7 @@ Faction: 3
 Name: Avalonians (3)
 Email: gmsshadow@hotmail.com
 Password: nowwhat99
-LastOrders: 10
+LastOrders: 9
 FirstTurn: 1
 SendTimes: 1
 Template: long
