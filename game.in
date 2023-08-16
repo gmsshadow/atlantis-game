@@ -3,10 +3,10 @@ atlantis_game
 Wyreth
 131072
 1
+5
+5834
 4
-8111
-4
-46
+48
 100
 1
 2
@@ -131,8 +131,8 @@ none
 1
 1
 -6
-4
-4983
+6
+4783
 Avalonians (3)
 gmsshadow@hotmail.com
 nowwhat99
@@ -968,6 +968,31 @@ none
 -1
 -1
 0
+1
+Kraken (46)
+none
+46
+3
+2
+2
+0
+0
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+10
+1
+1 KRAK
+0
+NO_SKILL
+0
+-1
 0
 Wyreth Ocean
 16
@@ -1501,6 +1526,31 @@ none
 -1
 -1
 0
+1
+Lizard Men (23)
+none
+23
+3
+2
+2
+0
+0
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+10
+1
+5 LMAN
+0
+NO_SKILL
+0
+-1
 0
 Wyreth Ocean
 26
@@ -1815,7 +1865,7 @@ FISH
 19
 1
 LARM
-82
+84
 35
 7565
 22065
@@ -1824,7 +1874,7 @@ LARM
 62
 1
 STON
-52
+53
 71
 9065
 22065
@@ -1833,7 +1883,7 @@ STON
 40
 1
 JAVE
-98
+100
 18
 10565
 22065
@@ -1842,7 +1892,7 @@ JAVE
 74
 1
 AXE
-111
+114
 23
 12065
 22065
@@ -1851,7 +1901,7 @@ AXE
 85
 1
 PEAR
-157
+161
 53
 11565
 22065
@@ -1860,7 +1910,7 @@ PEAR
 119
 1
 SPIC
-125
+128
 32
 15065
 22065
@@ -2302,7 +2352,7 @@ FIRE
 0
 -1
 0
-The King (39)
+The Mage-King (39)
 none
 39
 1
@@ -2320,15 +2370,16 @@ NO_ITEM
 NO_ITEM
 NO_ITEM
 2
-1
+2
 1 LEAD
+180 SILV
 3
 PATT 30
 SPIR 30
 GATE 30
 NO_SKILL
-0
--1
+2
+3
 0
 Killorglin
 33
@@ -2405,31 +2456,6 @@ none
 -1
 -1
 0
-1
-Lizard Men (23)
-none
-23
-3
-2
-2
-0
-0
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-10
-1
-5 LMAN
-0
-NO_SKILL
-0
--1
 0
 Bogrot
 34
@@ -2797,7 +2823,7 @@ GRAI
 16
 1
 LIVE
-28
+29
 140
 2294
 12294
@@ -2815,7 +2841,7 @@ FISH
 21
 1
 WOOD
-40
+41
 43
 7794
 22294
@@ -2824,7 +2850,7 @@ WOOD
 31
 1
 NET
-84
+86
 37
 9294
 22294
@@ -2833,7 +2859,7 @@ NET
 64
 1
 LARM
-76
+78
 28
 10794
 22294
@@ -2842,7 +2868,7 @@ LARM
 58
 1
 HERB
-40
+41
 51
 12294
 22294
@@ -2869,7 +2895,7 @@ PERF
 73
 1
 SILK
-156
+160
 54
 11794
 22294
@@ -2878,7 +2904,7 @@ SILK
 118
 1
 MINK
-130
+133
 38
 15294
 22294
@@ -3004,7 +3030,7 @@ GRAI
 21
 1
 LIVE
-28
+29
 106
 466
 10466
@@ -3031,7 +3057,7 @@ IRWD
 146
 1
 STON
-58
+59
 3
 5966
 20466
@@ -5286,7 +5312,7 @@ FISH
 21
 1
 SWOR
-90
+92
 28
 6804
 21304
@@ -5295,7 +5321,7 @@ SWOR
 69
 1
 STON
-56
+57
 74
 8304
 21304
@@ -5304,7 +5330,7 @@ STON
 43
 1
 HAMM
-103
+105
 32
 9804
 21304
@@ -5313,7 +5339,7 @@ HAMM
 78
 1
 PICK
-96
+98
 18
 11304
 21304
@@ -5349,7 +5375,7 @@ TARO
 67
 1
 PERF
-155
+159
 52
 10804
 21304
@@ -5358,7 +5384,7 @@ PERF
 117
 1
 DYE
-133
+136
 49
 14304
 21304
@@ -7720,6 +7746,31 @@ none
 -1
 -1
 0
+1
+Tribe of Centaurs (25)
+none
+25
+3
+2
+2
+0
+0
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+10
+1
+5 CENT
+0
+NO_SKILL
+0
+-1
 0
 1
 Crypt
@@ -7801,6 +7852,31 @@ none
 -1
 -1
 0
+1
+Tribe of Centaurs (26)
+none
+26
+3
+2
+2
+0
+0
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+10
+1
+4 CENT
+0
+NO_SKILL
+0
+-1
 0
 Wyreth Ocean
 96
@@ -8163,31 +8239,6 @@ none
 -1
 -1
 0
-1
-Tribe of Centaurs (25)
-none
-25
-3
-2
-2
-0
-0
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-10
-1
-5 CENT
-0
-NO_SKILL
-0
--1
 0
 Drall
 103
@@ -8260,31 +8311,6 @@ none
 -1
 -1
 0
-1
-Tribe of Centaurs (26)
-none
-26
-3
-2
-2
-0
-0
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-NO_ITEM
-10
-1
-4 CENT
-0
-NO_SKILL
-0
--1
 0
 Wyreth Ocean
 104
@@ -10299,7 +10325,7 @@ IRWD
 143
 1
 FUR
-50
+51
 4
 5765
 20265
@@ -10749,7 +10775,7 @@ LIVE
 15
 1
 FISH
-28
+29
 179
 345
 10345
@@ -10758,7 +10784,7 @@ FISH
 22
 1
 FUR
-47
+48
 23
 5845
 20345
@@ -10767,7 +10793,7 @@ FUR
 36
 1
 HERB
-41
+42
 15
 7345
 20345
@@ -10776,7 +10802,7 @@ HERB
 32
 1
 XBOW
-90
+92
 3
 8845
 20345
@@ -11786,6 +11812,31 @@ none
 -1
 -1
 0
+1
+Troll Pack (47)
+none
+47
+3
+2
+2
+0
+0
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+NO_ITEM
+10
+1
+7 TROL
+0
+NO_SKILL
+0
+-1
 0
 The Undersea
 152
